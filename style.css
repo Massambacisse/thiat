@@ -1,0 +1,79 @@
+img{
+    float: left;
+    border-radius: 0px;
+}
+div a:hover{
+    color:black;
+}
+nav{
+    margin-bottom: 50px;
+    margin-top: 50px;
+    margin-left: 50px
+}
+nav a{
+    margin-right: 30px;
+    text-decoration: none;
+    color:green;
+    border-bottom: 1px solid green;
+    padding-bottom: 5px;
+}
+ body{
+     font-family: Georgia, 'Times New Roman', Times, serif;
+     font-size: 20px;
+ }
+ .container h1{
+     color: green;
+     font-style: italic;
+    font-family:elephant, italic;
+    font-size: 20px;
+ }
+ .container h4{
+     font-size: 20px;
+     text-align-last: center;
+     color: #ffffff;
+     font-family:elephant;
+     text-decoration: none;
+ }
+ body{
+     background-image: url(./images/arrier-pla.jpg);
+     background-size: cover;
+ }
+ header{
+     display: flex;
+     flex-direction: column;
+     align-items: center;
+     padding: 20px;
+ }
+ .container main button{
+    font-family:elephant, italic;
+    cursor: pointer;
+    font-size: 50px;
+    margin-left: 10px;
+    margin-bottom: 500px;
+
+ }
+ .container main button:hover{
+    background-color:green;
+ }
+ p{
+     color: teal;
+     font-size: 40px;
+ }
+ footer{
+    background-color: white;
+    padding: 10px;
+    text-align: center;
+    font-size: 30px;
+}
+footer button{
+    padding: 25px 45px;
+    font-family: Georgia, 'Times New Roman', Times, serif:
+    border-radius: 10px;
+    font-size: 50px;
+    cursor: pointer;
+
+}
+footer button:hover{
+    background-color: green;
+}
+
